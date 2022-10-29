@@ -15,7 +15,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkinozturk&show_icons=true&count_private=true)  
 
-![](https://komarev.com/ghpvc/?username=berkinozturk&style=plastic&color=green)
+![](https://komarev.com/ghpvc/?username=berkinozturk&style=plastic&color=blue)
 
 <!---
 berkinozturk/berkinozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
