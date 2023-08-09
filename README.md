@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Berkin! 👋</h1>
-<h3 align="center">Newly graduated computer engineer and I have a determined passion to advance in the backend field. I love working with Java and .NET technologies and I am constantly striving to improve my skills on these platforms. My goal is to maximize my software capabilities to develop sustainable and user-oriented web & desktop applications.</h3>
+<h3 align="center">Newly graduated computer engineer and I have a determined passion to advance in the backend field. I love working with Java and I am constantly striving to improve my skills on that. My goal is to maximize my software capabilities to develop sustainable and user-oriented web & desktop applications.</h3>
 
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -9,10 +9,6 @@
 - 📫 How to reach me: <a href="mailto:beerkinozturk@gmail.com">Send an Email</a>
 
 - 🗣 I speak English, Ich rede Deutsch, hablo un poco de español
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
