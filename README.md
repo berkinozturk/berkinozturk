@@ -2,13 +2,13 @@
 <h3 align="center">Newly graduated computer engineer and I have a determined passion to advance in the backend field. I love working with Java and I am constantly striving to improve my skills on that. My goal is to maximize my software capabilities to develop sustainable and user-oriented web & desktop applications.</h3>
 
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring**
 
 - 👀 Mostly develop projects in Java
 
 - 📫 How to reach me: <a href="mailto:beerkinozturk@gmail.com">Send an Email</a>
 
-- 🗣 I speak English, Ich rede Deutsch, hablo un poco de español
+- 🗣 I speak English, Ich rede Deutsch, hablo un poco de Español
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
