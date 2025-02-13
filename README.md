@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Berkin! 👋</h1>
-<h3 align="center">M.Sc. Software Engineering @Berlin. Love working with Java, love back-end.</h3>
+<h3 align="center">Full Stack Developer in Berlin. Love working with Java mostly, but I am a person who aims to solve all kinds of problems with engineering.</h3>
 
-
-- 🌱 I’m currently learning **Spring**
-
-- 👀 Mostly develop projects in Java
+- 👀 Someone who creates projects by constantly learning new technologies.
 
 - 📫 How to reach me: <a href="mailto:beerkinozturk@gmail.com">Send an Email</a>
 
@@ -13,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkin-ozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkin-ozturk" height="30" width="40" /></a>
-<a href="https://instagram.com/beerkinozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beerkinozturk" height="30" width="40" /></a>
 <a href="https://medium.com/@berkinozturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@berkinozturk" height="30" width="40" /></a>
 </p>
 
